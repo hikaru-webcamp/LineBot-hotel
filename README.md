@@ -19,6 +19,6 @@
 ## 使用技術
 * Ruby 3.0.2
 * Ruby on Rails 6.0.4
-* horeku
+* Heroku
 * ngrok
 * 楽天トラベルの外部APIを使用
