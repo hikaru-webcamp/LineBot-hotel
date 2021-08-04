@@ -1,6 +1,7 @@
 ## Ruby on Rails で宿泊検索 LINE Botを作成しました。
 楽天トラベルの外部APIを用いて、アプリを作成。
-![Aug-04-2021 15-30-04 (1)](https://user-images.githubusercontent.com/79980351/128133053-35318796-1e6b-446a-b08d-b6b6e283fa11.gif)
+
+![Aug-04-2021 15-30-04 (1)](https://user-images.githubusercontent.com/79980351/128133053-35318796-1e6b-446a-b08d-b6b6e283fa11.gif)  
 
 ## 使用方法
 
